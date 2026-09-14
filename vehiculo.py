@@ -1,4 +1,4 @@
-# Definición de la clase base Vehiculo para representar los vehículos en el sistema
+# Definición de la clase base Vehiculo para representar los vehículos en el sistema, todos.
 class Vehiculo:
     # Método constructor que inicializa los atributos de instancia de Vehiculo
     def __init__(self, patente: str, anio: int) -> None:
