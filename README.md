@@ -18,3 +18,4 @@
    - **Nueva ruta consolidada:** `C:\TRABAJO\01-INACAP\10 . PROGRAMACIÓN ORIENTADA A OBJETOS SEGURA\Proyectos_AGV\TALLER`
 3. **Motivo y Contexto:**
    - Centralización de repositorios bajo el espacio de trabajo de la asignatura *Programación Orientada a Objetos Segura* en INACAP.
+4. Se copian los archivos (programas Python) del profesor porque carecen de errores.
